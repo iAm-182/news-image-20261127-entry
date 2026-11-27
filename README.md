@@ -1,6 +1,8 @@
 # The World — Friday 27 November 2026
 
 [![news-image-20261127](https://make.fun/badge/news-image-20261127.svg)](https://make.fun/bounty/news-image-20261127)
+[![rank](https://make.fun/badge/news-image-20261127/iAm-182/news-image-20261127-entry/rank.svg)](https://make.fun/bounty/news-image-20261127/leaderboard)
+[![reward](https://make.fun/badge/news-image-20261127/iAm-182/news-image-20261127-entry/reward.svg)](https://make.fun/bounty/news-image-20261127)
 
 One image summing up the world's news of **Friday 27 November 2026**:
 two strikes shake the Gulf (a drone attack in Kuwait kills two Italian
