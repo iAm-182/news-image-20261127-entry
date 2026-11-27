@@ -32,6 +32,11 @@ def main():
     if not os.path.isfile(src):
         print("entry.png missing next to main.py", file=sys.stderr)
         return 1
+    with open(src, "rb") as fh:
+        magic = fh.read(8)
+    if magic != b"\x89PNG\r\n\x1a\n":
+        print("entry.png is not a PNG file", file=sys.stderr)
+        return 1
     dst_dir = target_dir()
     os.makedirs(dst_dir, exist_ok=True)
     dst = os.path.join(dst_dir, "entry.png")
